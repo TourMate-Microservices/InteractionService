@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TourMate.InteractionService.Repositories\TourMate.InteractionService.Repositories.csproj" />
+  </ItemGroup>
+
 </Project>

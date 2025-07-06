@@ -1,6 +1,7 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using System;
 using System.Collections.Generic;
-using Microsoft.EntityFrameworkCore;
 using TourMate.InteractionService.Repositories.Models;
 
 namespace TourMate.InteractionService.Repositories.Context;
