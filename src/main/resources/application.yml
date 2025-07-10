@@ -1,0 +1,6 @@
+open:
+  api:
+    title: Tourmate Interaction Service Microservice
+    version: 1.0.0
+    description: Interaction Service for Tourmate Microservice
+    serverUrl: http://localhost:8080
